@@ -1,7 +1,7 @@
 # Trip Finder
 
 > [!NOTE]
-> fork of https://github.com/rodrigohpalmeirim/trip-finder/
+> fork from https://github.com/rodrigohpalmeirim/trip-finder/
 
 Google Flights is a very useful tool for searching flights and comparing prices, but it lacks a few features. Namely, it does not support searching for round-trip flights that use different airports for the departure and return flights. Additionally, the UI for comparing trips with a flexible duration is not intuitive.
 
